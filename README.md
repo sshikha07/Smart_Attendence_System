@@ -1,5 +1,5 @@
 # Smart_Attendence_System
-# Smart Attendance System using Face Detection with Open CV
+# Smart Attendence System using Face Detection with Open CV
 
 ## Libraries Used:
 ○ Numpy - could be a library for Python, adding support for multi-dimensional arrays and
